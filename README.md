@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Kau!
 
-<!--
-**Kawdevlops/Kawdevlops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Foco em **Desenvolvimento Web Full Stack**  
 
-Here are some ideas to get you started:
+Sou apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em soluções funcionais. Tenho experiência prática com **HTML, CSS, JavaScript, Bootstrap, Java e SQL Oracle**, além de desenvolver projetos pessoais utilizando **React** e **Node.js**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco constantemente aprimorar minhas habilidades e aprender novas tecnologias que me tornem uma profissional mais completa na área de desenvolvimento.
+
+---
+
+### 🧠 Tecnologias e Ferramentas
+💡 Front-end: HTML | CSS | JavaScript | React | Bootstrap  
+⚙️ Back-end: Node.js | PHP | Java | Python  
+🗂️ Banco de Dados: MySQL | Oracle SQL  
+🧩 Outros: Git | GitHub | UX/UI | REST APIs  
+
+---
+### 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kawdevlops&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kawdevlops&layout=compact&theme=dracula" />
+</p>
+
+---
+
+### 🌱 Atualmente estudando:
+- Boas práticas de desenvolvimento e estrutura de código  
+- UX/UI e design responsivo  
+- Integração entre front-end e back-end  
+
+---
+
+### 📫 Onde me encontrar
+[💼 LinkedIn (https://www.linkedin.com/in/kauany-violin/)) | [📧 Email](kauanyviolin.ads@gmailcom)
+
+---
+
+⭐ *“O código é poesia quando resolve problemas de forma simples.”*  
