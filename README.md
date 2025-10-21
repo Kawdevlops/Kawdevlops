@@ -32,7 +32,7 @@ Busco constantemente aprimorar minhas habilidades e aprender novas tecnologias q
 ---
 
 ### 📫 Onde me encontrar
-[💼 LinkedIn (https://www.linkedin.com/in/kauany-violin/)) | [📧 Email](kauanyviolin.ads@gmailcom)
+[💼 LinkedIn] (https://www.linkedin.com/in/kauany-violin/)) | [📧 Email] ( kauanyviolin.ads@gmailcom) 
 
 ---
 
