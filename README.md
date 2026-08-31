@@ -48,13 +48,6 @@ Graduanda em Análise e Desenvolvimento de Sistemas (FIAP, conclusão prevista e
 
 ---
 
-### 📊 Estatísticas
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kawdevlops&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kawdevlops&layout=compact&theme=tokyonight&hide_border=true) |
-| --- | --- |
-
----
-
 ### 📌 Projetos em destaque
 
 - 🔗 [Analise-de-indicadores](https://github.com/Kawdevlops/Analise-de-indicadores)
