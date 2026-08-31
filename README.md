@@ -17,12 +17,6 @@ Graduanda em Análise e Desenvolvimento de Sistemas (FIAP, conclusão prevista e
 
 ---
 
-### 🚀 Linguagens e Tecnologias
-
-![Skills](https://skillicons.dev/icons?i=py,java,postgres,mongodb,cassandra,docker,git,github,bash)
-
----
-
 ### 🛠️ Tech Stack completa
 
 **Análise de Dados**
